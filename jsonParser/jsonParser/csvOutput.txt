@@ -1,0 +1,18 @@
+9/2/2015 10:30:00 AM,16,Agent Quality,Politeness, Empathy, Ownership, Compliments, Speech Understandability, Active
+
+9/2/2015 10:35:00 AM,17,Average Duration Score,Duration, Active
+
+9/24/2015 12:55:00 PM,22,Call Emotion,Agitation, Dissatisfaction, Escalation, Active
+
+4/27/2017 3:32:00 PM,23,Collections Quality,Politeness, Empathy, Agent Ownership, Compliments, Speech Understandability, Tempo, Percent Silence, Active
+
+1/8/2016 9:49:00 AM,18,Collector Effectiveness,Request for Payment, Promise to Pay, Ownership, Empathy, Active
+
+1/7/2016 8:45:00 PM,19,Compliance Score,Mini Miranda - Complete, Recording Disclosure, FDCPA Violations, Active
+
+9/2/2015 11:08:00 AM,20,Customer Satisfaction,Escalation, Profanity, Dissatisfaction, Active
+
+2/3/2011 5:55:00 PM,15,Percent Silence Score,Percent Silence Indicator, Active
+
+9/2/2015 11:11:00 AM,21,Risky Calls,Risk & Abusive Language, Legal Action Mentions, Refusal to Pay, Escalation, Profanity, Do Not Contact, Active
+

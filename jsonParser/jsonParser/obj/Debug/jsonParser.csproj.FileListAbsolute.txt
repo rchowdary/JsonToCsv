@@ -1,0 +1,8 @@
+G:\Work\jsonParser\jsonParser\jsonParser\bin\Debug\jsonParser.exe.config
+G:\Work\jsonParser\jsonParser\jsonParser\bin\Debug\jsonParser.exe
+G:\Work\jsonParser\jsonParser\jsonParser\bin\Debug\jsonParser.pdb
+G:\Work\jsonParser\jsonParser\jsonParser\bin\Debug\Newtonsoft.Json.dll
+G:\Work\jsonParser\jsonParser\jsonParser\bin\Debug\Newtonsoft.Json.xml
+G:\Work\jsonParser\jsonParser\jsonParser\obj\Debug\jsonParser.csprojResolveAssemblyReference.cache
+G:\Work\jsonParser\jsonParser\jsonParser\obj\Debug\jsonParser.exe
+G:\Work\jsonParser\jsonParser\jsonParser\obj\Debug\jsonParser.pdb
